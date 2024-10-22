@@ -1,6 +1,6 @@
 
 
-### **Session 2: Interaction Design & Cognitive Aspects**
+### **Session 2: Interaction Design & Cognitive Aspects**.
 
 1. **Interaction Design**:  
    - **Dialogue**: Human ↔ System/Product  
